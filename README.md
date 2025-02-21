@@ -1,1 +1,1 @@
-# proyecto-anal-tica-de-datos
+# proyecto-analitica-de-datos
