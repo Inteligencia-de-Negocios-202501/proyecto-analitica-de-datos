@@ -11,7 +11,7 @@ mkl_random==1.2.8
 mkl-service==2.4.0
 nltk==3.9.1
 numexpr==2.10.1
-numpy==2.2.4
+numpy==1.26.4
 pandas==2.2.3
 pip==25.0
 pydantic==2.10.3
